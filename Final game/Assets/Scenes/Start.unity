@@ -208,7 +208,7 @@ PrefabInstance:
       objectReference: {fileID: 1720633001}
     - target: {fileID: 7468928556684072345, guid: 0cdf62bfa14ec4f4da4816d0eb32781d, type: 3}
       propertyPath: m_Name
-      value: Z_f
+      value: Background
       objectReference: {fileID: 0}
     - target: {fileID: 8877325136615554662, guid: 0cdf62bfa14ec4f4da4816d0eb32781d, type: 3}
       propertyPath: m_Pivot.x
@@ -463,7 +463,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4497707292376757137, guid: 6266fee7fab386547a436adc5209b960, type: 3}
       propertyPath: m_Name
-      value: music
+      value: Music
       objectReference: {fileID: 0}
     - target: {fileID: 4831569207854723568, guid: 6266fee7fab386547a436adc5209b960, type: 3}
       propertyPath: m_LocalPosition.x

@@ -213,7 +213,7 @@ PrefabInstance:
       objectReference: {fileID: 2142945152}
     - target: {fileID: 6992339491280899810, guid: 9da9cac023f703146b4262ac6bfe848d, type: 3}
       propertyPath: m_Name
-      value: Enemy_3
+      value: Enemy 3
       objectReference: {fileID: 0}
     - target: {fileID: 7085085121692563484, guid: 9da9cac023f703146b4262ac6bfe848d, type: 3}
       propertyPath: patrolPoint
@@ -380,7 +380,7 @@ PrefabInstance:
       objectReference: {fileID: 428378537}
     - target: {fileID: 5924834663221933017, guid: 607c57cc609e2964c89f3336b966ff6c, type: 3}
       propertyPath: m_Name
-      value: "\u0417\u0430\u0434\u043D\u0438\u0439_\u0444\u043E\u043D"
+      value: Background
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -398,7 +398,7 @@ GameObject:
   - component: {fileID: 613181716}
   - component: {fileID: 613181715}
   m_Layer: 0
-  m_Name: "\u0434\u0432\u0435\u0440\u044C"
+  m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -716,7 +716,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1317801287267250610, guid: ca48fde7674391b47b9722bd063d40d8, type: 3}
       propertyPath: m_Name
-      value: Grid Variant 1
+      value: Grid 3
       objectReference: {fileID: 0}
     - target: {fileID: 3469818171523310350, guid: ca48fde7674391b47b9722bd063d40d8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -974,7 +974,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2777087573454981355, guid: 2671404bcbd6754459aca2ed388a7b3a, type: 3}
       propertyPath: m_Name
-      value: "\u043A\u043B\u044E\u0447 Variant"
+      value: Key 3
       objectReference: {fileID: 0}
     - target: {fileID: 8988882680979985066, guid: 2671404bcbd6754459aca2ed388a7b3a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1076,7 +1076,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5969521918486714828, guid: b2c0928ec35d7a74d9ab8eab7e498eb1, type: 3}
       propertyPath: m_Name
-      value: Points_3
+      value: Points 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

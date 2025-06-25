@@ -216,7 +216,7 @@ PrefabInstance:
       objectReference: {fileID: 2069594402}
     - target: {fileID: 5924834663221933017, guid: 607c57cc609e2964c89f3336b966ff6c, type: 3}
       propertyPath: m_Name
-      value: "\u0417\u0430\u0434\u043D\u0438\u0439_\u0444\u043E\u043D"
+      value: Background
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -238,7 +238,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2035192958157507723, guid: a715f67a6d9bece4fa86e88bd77b25f4, type: 3}
       propertyPath: m_Name
-      value: 'Grid '
+      value: Grid 2
       objectReference: {fileID: 0}
     - target: {fileID: 4490358491106549303, guid: a715f67a6d9bece4fa86e88bd77b25f4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -356,7 +356,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2128971380075850848, guid: 7766939071436dd47be26d27a47484ab, type: 3}
       propertyPath: m_Name
-      value: Points_2
+      value: Points 2
       objectReference: {fileID: 0}
     - target: {fileID: 2489258028166905152, guid: 7766939071436dd47be26d27a47484ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -571,7 +571,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1493298012507585854, guid: 30a49e161d50d7c4388d3a5eee4f2ce6, type: 3}
       propertyPath: m_Name
-      value: Player 2 Variant
+      value: 'Player 2 '
       objectReference: {fileID: 0}
     - target: {fileID: 2969031551252832265, guid: 30a49e161d50d7c4388d3a5eee4f2ce6, type: 3}
       propertyPath: speed
@@ -692,7 +692,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3708718813912307555, guid: 4938498921fba354b987b1c6e128eda2, type: 3}
       propertyPath: m_Name
-      value: Main Camera (1)
+      value: Main Camera
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -721,7 +721,7 @@ PrefabInstance:
       objectReference: {fileID: 549298368}
     - target: {fileID: 2565303259617738403, guid: d69195d4a429432439eac8d474a151d1, type: 3}
       propertyPath: m_Name
-      value: Enemy_2
+      value: Enemy 2
       objectReference: {fileID: 0}
     - target: {fileID: 3297456104923043164, guid: d69195d4a429432439eac8d474a151d1, type: 3}
       propertyPath: patrolPoint
@@ -915,7 +915,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6502548771816262085, guid: 9ccbd6cc357d2ea46b21bd19ed0d9996, type: 3}
       propertyPath: m_Name
-      value: "\u0434\u0432\u0435\u0440\u044C"
+      value: Door
       objectReference: {fileID: 0}
     - target: {fileID: 7572553483330185202, guid: 9ccbd6cc357d2ea46b21bd19ed0d9996, type: 3}
       propertyPath: m_LocalPosition.x

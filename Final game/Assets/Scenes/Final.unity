@@ -358,7 +358,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4497707292376757137, guid: 6266fee7fab386547a436adc5209b960, type: 3}
       propertyPath: m_Name
-      value: music 1
+      value: Music f
       objectReference: {fileID: 0}
     - target: {fileID: 4831569207854723568, guid: 6266fee7fab386547a436adc5209b960, type: 3}
       propertyPath: m_LocalPosition.x
@@ -499,7 +499,7 @@ PrefabInstance:
       objectReference: {fileID: 115969566}
     - target: {fileID: 7734314901215643359, guid: 566c4cbd603d816429e97e4af057211b, type: 3}
       propertyPath: m_Name
-      value: Canvas_f
+      value: Canvas f
       objectReference: {fileID: 0}
     - target: {fileID: 7984028815316339216, guid: 566c4cbd603d816429e97e4af057211b, type: 3}
       propertyPath: m_Camera

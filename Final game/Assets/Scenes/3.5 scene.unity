@@ -313,7 +313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7389817009650569437, guid: 29a559c5ddbcde7419559d9a042dad19, type: 3}
       propertyPath: m_Name
-      value: GameObject
+      value: Trigger
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -414,7 +414,7 @@ PrefabInstance:
       objectReference: {fileID: 439091662}
     - target: {fileID: 5924834663221933017, guid: 607c57cc609e2964c89f3336b966ff6c, type: 3}
       propertyPath: m_Name
-      value: "\u0417\u0430\u0434\u043D\u0438\u0439_\u0444\u043E\u043D"
+      value: Background
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -581,7 +581,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8313475352331050136, guid: 3839d62f4b7dc954bbf4e7671d4c3dfa, type: 3}
       propertyPath: m_Name
-      value: "\u043C\u0430\u0433\u0411"
+      value: Big magician
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -598,7 +598,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4956393492768812687, guid: 5fd02677184dd3645a0515f9261b25c0, type: 3}
       propertyPath: m_Name
-      value: Grid Variant 2
+      value: Grid 4
       objectReference: {fileID: 0}
     - target: {fileID: 7396641119842384947, guid: 5fd02677184dd3645a0515f9261b25c0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -656,7 +656,7 @@ GameObject:
   - component: {fileID: 1971001491}
   - component: {fileID: 1971001490}
   m_Layer: 0
-  m_Name: "\u0434\u0432\u0435\u0440\u044C"
+  m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
